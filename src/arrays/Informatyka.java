@@ -1,4 +1,4 @@
-package BruhUp;
+package arrays;
 
 public class Informatyka {
 	
